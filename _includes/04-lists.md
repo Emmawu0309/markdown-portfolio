@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>:+1:</li>
+  <li>:tada:</li>
+  </ol>
